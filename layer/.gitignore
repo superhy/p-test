@@ -1,0 +1,6 @@
+/__init__.pyc
+/face2text_gen.pyc
+/image_augment.pyc
+/text2text_gen.pyc
+/tongue2text_gen.pyc
+/tongue2text_sklearn_gen.pyc

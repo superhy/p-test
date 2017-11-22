@@ -1,0 +1,8 @@
+/__init__.pyc
+/generator_eval.pyc
+/patient_face_generator.pyc
+/patient_text_generator.pyc
+/patient_tongue_generator.pyc
+/tools.pyc
+/word_embedding.pyc
+/word_seg.pyc
